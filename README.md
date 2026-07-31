@@ -31,8 +31,10 @@ This project was developed as part of the Applied Data Science Course (AI-Assist
 Follow these steps to run the application locally:
 
 ### 1. Clone the Repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
+```
 
 ### 2. Create a Virtual Environment (Optional but recommended)
 #### On Windows
