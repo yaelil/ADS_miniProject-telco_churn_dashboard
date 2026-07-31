@@ -23,7 +23,7 @@ This project was developed as part of the Applied Data Science Course (AI-Assist
 ├── Telco-Customer-Churn.csv    # Kaggle Telco Churn dataset
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
-
+```
 ---
 
 ## 🛠️ Installation & Setup
