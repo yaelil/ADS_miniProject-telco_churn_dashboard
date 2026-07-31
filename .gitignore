@@ -1,0 +1,11 @@
+# Exclude sensitive/private files
+*reflection*
+*.docx
+*.pdf
+
+# Exclude virtual environments & python cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
