@@ -17,7 +17,8 @@ This project was developed as part of the Applied Data Science Course (AI-Assist
 ---
 
 ## 📁 Project Structure
-
+```text
+.
 ├── app.py                      # Main Streamlit application
 ├── Telco-Customer-Churn.csv    # Kaggle Telco Churn dataset
 ├── requirements.txt            # Python dependencies
@@ -34,11 +35,11 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
 
 ### 2. Create a Virtual Environment (Optional but recommended)
-# On Windows
+#### On Windows
 python -m venv venv
 venv\Scripts\activate
 
-# On macOS/Linux
+#### On macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
 
