@@ -2,6 +2,7 @@
 *reflection*
 *.docx
 *.pdf
+~$*
 
 # Exclude virtual environments & python cache
 venv/
