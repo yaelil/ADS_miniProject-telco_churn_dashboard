@@ -80,7 +80,7 @@ The project uses the Telco Customer Churn dataset from Kaggle, containing inform
 
 ## 💡 Key Analytical Insights & Performance
 
-- **Primary Churn Drivers:** Feature importance via **SHAP** revealed that **Contract type** (month-to-month), **Tenure length**, and **Fiber Optic internet service (`IsFiber`)** are the primary predictors of customer churn.
+- **Primary Churn Drivers:** Feature importance via SHAP revealed that Contract type (month-to-month), Tenure length, and Fiber Optic internet service (`IsFiber`) are the primary predictors of customer churn.
 - **Deep-Dive: Fiber Optic Churn (`IsFiber`) & Pricing Dynamics:** 
   - **SHAP & Correlation Insights:** Exploratory analysis via feature correlation heatmap highlights a very strong positive correlation ($r = 0.79$) between `IsFiber` and `MonthlyCharges`.
   - **Propensity to Churn:** SHAP value distribution confirms that `IsFiber = 1` (red points) consistently increases churn probability (SHAP values > 0). 
